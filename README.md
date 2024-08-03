@@ -5,6 +5,9 @@ This project is created using NodeJS and VS Code. Main libraries used in nodejs 
 Web-socket are alternative to HTTP communication in a web application. Unlike HTTP request, web-sockets offer full duplex communication, that is, bi-directional. 
 Bi-directional means data can flow in both ways, that is, from client to server as well as from server to client. 
 
+# Download Link
+VS Code: https://code.visualstudio.com/Download
+
 # Output photos 
 ## Two users
 ![image](https://github.com/user-attachments/assets/e78e2936-d81b-4a40-8319-43e7a3464aeb)
